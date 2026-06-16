@@ -79,23 +79,3 @@ An AI-powered application designed to support mental wellness and emotional well
 ## Live Demo
 
 Portfolio Website: Add your GitHub Pages or Netlify deployment link here.
-
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Srivalli1607/Portfolio.git
-```
-
-2. Open the project folder
-
-```bash
-cd Portfolio
-```
-
-3. Open `index.html` in your browser.
-
-## License
-
-This project is created for personal and educational purposes.
